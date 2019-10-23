@@ -1,0 +1,13 @@
+/*
+
+* LANGUAGE: C++
+* AUTHOR: Vysakh T
+* GITHUB: https://github.com/Vysakh-T
+
+*/
+
+#include<iostream.h>
+void main()
+  {
+  cout<<"\nHELLO WORLD...!\n";
+  }
